@@ -25,13 +25,13 @@ body{
 .h1{
 
     text-align: center;
-    color:cyan;
-    font-size: 70px;
+    color:darkorange;
+    font-size: 80px;
 }
 
 .h2{
     text-align: center;
-    color: rgb(20, 243, 76);
+    color:orangered;
     font-size: 60px;
 }
 .p{
@@ -46,7 +46,6 @@ body{
     color: white;
     font-weight: 700;
     border-radius: 10px;
-    
 }
 div{
     text-align: center;
