@@ -1,0 +1,105 @@
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.header-image{
+    background-image: url("./images/donation5.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    width:auto ;}
+    
+.donate-plan{
+        padding-top: 150px;
+    }
+
+.donate{
+    font-size: 70px;
+}
+.donate2{
+    font-size: 70px;
+}
+
+
+.h1{
+
+    text-align: center;
+    color:cyan;
+    font-size: 70px;
+}
+
+.h2{
+    text-align: center;
+    color: rgb(20, 243, 76);
+    font-size: 60px;
+}
+.p{
+    text-align: center; 
+     color:honeydew;
+    font-size: 25px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( orange , tomato );
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+}
+div{
+    text-align: center;
+}
+
+.section-2 h1{
+    color: black;
+    padding-top: 150px;
+}
+.section2-h2{
+    font-size: 50px;
+    color: gray;
+}
+
+.description{
+    font-size: 20px;
+    color: gray;
+}
+
+
+.modify{
+    padding-bottom: 50px;
+    font-size: 20px;
+    color: light grey;
+}
+
+.flexible-container{
+    display: flex;
+
+}
+.planning{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 60px;
+    box-shadow: 10px 10px 40px lightslategray;
+    border-left: 10px;
+}
+
+.plan1{
+    background-color:honeydew;
+}
+.plan2{
+    background-color:antiquewhite;
+}
+.plan3{
+    background-color:aliceblue;
+}
+
+footer{
+    color: tomato;
+    text-align: center;
+    background-color:black;
+    margin: auto;
+}
